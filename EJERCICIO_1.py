@@ -30,4 +30,4 @@ for i in range (n):
     matriz.append(fila)
 
 for i in matriz:
-    print(i)
+    print (*i)
